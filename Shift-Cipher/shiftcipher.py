@@ -1,3 +1,4 @@
+#Giast Ahmad - 140810220018
 def shift_cipher(text, shift, mode):
     result = ""
 
